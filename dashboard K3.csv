@@ -1,0 +1,102 @@
+Nomor,Nama_Korban,Jenis_Kelamin,Usia,Tanggal_Insiden,Waktu_Insiden,Shift,Jenis_Insiden,Lokasi_Insiden,Departemen_Terkait,Penyebab_Insiden,Kondisi_Korban,LDI,LTI INSIDEN,Durasi_LTI,Biaya_Kerusakan,Biaya_Pengobatan,Kecelakaan_Lalu_Lintas,Jarak Hari Accident
+1,Patricia Winarno,Perempuan,30,11-Jan-2023,02:11,1,Medical Treatment,Main Production Area,PPIC,Kesalahan Prosedur,Luka Robek,0,4:11,4.2,11146793,4177363,Tidak,2
+2,Ade Usamah,Laki-laki,30,13-Jan-2023,06:55,1,Medical Treatment,Raw Material Storage,Warehouse,Alat Rusak,Luka Jahitan,1,4:48,28.8,12855697,4627429,Tidak,6
+3,Queen Uyainah,Perempuan,42,19-Jan-2023,17:52,2,Medical Treatment,Feeding,Extruder,Faktor Manusia,Luka Jahitan,2,7:12,55.2,2610834,1514603,Tidak,1
+4,Salwa Oktaviani,Perempuan,45,20-Jan-2023,10:18,3,Medical Treatment,Break Room,IT,Faktor Manusia,Luka Robek,1,2:23,26.4,28191399,293458,Tidak,3
+5,Prayitna Kuswoyo,Laki-laki,24,23-Jan-2023,16:26,1,Restricted,"Jalan Diponegoro, Sidoarjo",Finance,Alat Rusak,Cedera Akibat Kecelakaan Lalu Lintas,1,2:17,26.3,45917610,1242729,Ya,1
+6,Eko Hartati,Laki-laki,30,24-Jan-2023,09:00,3,First Aid,Feeding,Extruder,Lingkungan Kerja,Luka Bakar Ringan,0,0:06,0.1,22126087,1317453,Tidak,0
+7,Rahayu Hidayat,Perempuan,39,24-Jan-2023,10:44,1,Medical Treatment,Support Material Storage,Logistics,Alat Rusak,Luka Jahitan,2,3:28,51.5,32121387,2849470,Tidak,8
+8,Edward Prayoga,Laki-laki,23,01-Feb-2023,15:56,3,First Aid,Prayer Room,R&D,Faktor Manusia,Tergores,2,0:53,48.9,16966884,4446311,Tidak,1
+9,Ira Yuniar,Perempuan,22,02-Feb-2023,04:55,3,First Aid,Office Area,Finance,Kesalahan Prosedur,Terkena Benturan Ringan,1,0:00,24.0,39489121,558051,Tidak,0
+10,Yuni Zulkarnain,Perempuan,42,02-Feb-2023,16:02,1,Medical Treatment,Thermoforming,Thermoformer,Alat Rusak,Luka Jahitan,2,5:18,53.3,32146130,4707944,Tidak,3
+11,Vanya Nashiruddin,Perempuan,25,05-Feb-2023,06:13,3,Medical Treatment,Slitting,Utility,Lingkungan Kerja,Luka Robek,1,9:36,33.6,23884339,4876090,Tidak,1
+12,Bambang Sihombing,Laki-laki,30,06-Feb-2023,15:51,1,Medical Treatment,"Jalan Basuki Rahmat, Surabaya",Extruder,Faktor Manusia,Cedera Akibat Kecelakaan Lalu Lintas,0,5:29,5.5,10560174,1130892,Ya,1
+13,Rini Novitasari,Perempuan,48,07-Feb-2023,05:43,1,Medical Treatment,Main Production Area,Extruder,Kesalahan Prosedur,Cedera Ringan,2,3:49,51.8,31261002,1699118,Tidak,6
+14,Utama Putra,Laki-laki,33,13-Feb-2023,02:45,3,Medical Treatment,"Jalan Veteran, Gresik",R&D,Lingkungan Kerja,Cedera Akibat Kecelakaan Lalu Lintas,2,1:27,49.5,36452580,3034630,Ya,5
+15,Oman Nuraini,Laki-laki,48,18-Feb-2023,11:40,1,Medical Treatment,"Jalan Ahmad Yani, Surabaya",Logistics,Kesalahan Prosedur,Cedera Akibat Kecelakaan Lalu Lintas,1,5:10,29.2,15993831,2517382,Ya,5
+16,Titin Latupono,Perempuan,25,23-Feb-2023,18:17,1,Medical Treatment,Slitting,Utility,Lingkungan Kerja,Cedera Ringan,2,1:17,49.3,7702850,4650213,Tidak,1
+17,Laras Thamrin,Perempuan,40,24-Feb-2023,03:04,1,Medical Treatment,Metalizing,Elektrik,Kesalahan Prosedur,Luka Jahitan,0,7:29,7.5,27592648,3985511,Tidak,1
+18,Ida Rahayu,Perempuan,21,25-Feb-2023,05:47,1,Medical Treatment,Office Area,IT,Faktor Manusia,Luka Robek,1,3:26,27.4,32727335,1537577,Tidak,3
+19,Puspa Laksita,Perempuan,37,28-Feb-2023,04:18,1,Medical Treatment,Main Production Area,PPIC,Kesalahan Prosedur,Luka Robek,1,6:03,30.1,35755525,1422593,Tidak,1
+20,Ozy Aryani,Laki-laki,24,01-Mar-2023,01:37,1,Restricted,"Jalan Raya Taman Pinang, Sidoarjo",Extruder,Alat Rusak,Cedera Akibat Kecelakaan Lalu Lintas,1,6:54,30.9,19118298,1344814,Ya,3
+21,Kairav Hutapea,Laki-laki,41,04-Mar-2023,02:46,1,Medical Treatment,Canteen Area,HR,Faktor Manusia,Luka Dalam,0,4:27,4.5,22687667,778979,Tidak,0
+22,Warji Tampubolon,Laki-laki,25,04-Mar-2023,01:39,1,Medical Treatment,Slitting,Elektrik,Alat Rusak,Luka Dalam,1,5:50,29.8,24602800,1127366,Tidak,2
+23,Karsana Hassanah,Laki-laki,35,06-Mar-2023,04:27,1,Medical Treatment,Office Area,Marketing,Faktor Manusia,Luka Jahitan,2,5:14,53.2,15955249,4722817,Tidak,0
+24,Wani Nugroho,Perempuan,39,06-Mar-2023,04:11,3,Medical Treatment,Office Area,Marketing,Lingkungan Kerja,Luka Jahitan,0,0:26,0.4,14814234,2308054,Tidak,4
+25,Vera Tamba,Perempuan,46,10-Mar-2023,00:29,1,Medical Treatment,Quality Control Area,QA,Alat Rusak,Luka Robek,2,6:19,54.3,26457343,1412837,Tidak,1
+26,Purwadi Wastuti,Laki-laki,22,11-Mar-2023,23:27,2,Medical Treatment,Metalizing,Metalize,Faktor Manusia,Cedera Ringan,2,6:42,54.7,15715944,4836581,Tidak,12
+27,Farhunnisa Pratama,Perempuan,29,23-Mar-2023,17:28,1,First Aid,Office Area,Finance,Faktor Manusia,Luka Bakar Ringan,1,2:14,26.2,7951397,4796373,Tidak,5
+28,Aris Namaga,Laki-laki,39,28-Mar-2023,22:24,2,Restricted,Main Production Area,Elektrik,Kesalahan Prosedur,Cedera Pergelangan,1,7:55,31.9,43274146,1966239,Tidak,5
+29,Ani Nababan,Perempuan,46,02-Apr-2023,19:13,2,Medical Treatment,Main Production Area,QA,Kesalahan Prosedur,Luka Robek,2,5:20,53.3,30313142,4705000,Tidak,4
+30,Salsabila Wijayanti,Perempuan,27,06-Apr-2023,17:17,1,Medical Treatment,Main Production Area,PPIC,Lingkungan Kerja,Luka Robek,0,7:31,7.5,46942747,4378112,Tidak,2
+31,Faizah Budiyanto,Perempuan,31,08-Apr-2023,10:07,1,Fatality,Quality Control Area,QA,Kesalahan Prosedur,Cedera Fatal,2,6:47,54.8,17346903,1666658,Tidak,1
+32,Najwa Situmorang,Perempuan,32,09-Apr-2023,14:23,1,Medical Treatment,Blow Molding,Utility,Lingkungan Kerja,Cedera Ringan,3,5:15,77.3,6185927,4384355,Tidak,3
+33,Devi Laksmiwati,Perempuan,36,12-Apr-2023,01:57,3,Medical Treatment,Washing Area,Utility,Alat Rusak,Luka Dalam,1,13:52,37.9,17184942,257488,Tidak,10
+34,Mursinin Sitorus,Laki-laki,41,22-Apr-2023,03:01,3,Medical Treatment,Thermoforming,Thermoformer,Kesalahan Prosedur,Cedera Ringan,1,2:46,26.8,43843455,2753035,Tidak,3
+35,Tania Hastuti,Perempuan,41,25-Apr-2023,05:33,1,Medical Treatment,Main Production Area,Elektrik,Alat Rusak,Cedera Ringan,2,1:05,49.1,44927583,4941525,Tidak,2
+36,Olivia Laksita,Perempuan,36,27-Apr-2023,00:28,1,Fatality,Main Production Area,PPIC,Kesalahan Prosedur,Cedera Fatal,2,2:13,50.2,20670760,2780135,Tidak,1
+37,Bahuwirya Ardianto,Laki-laki,25,28-Apr-2023,06:17,1,Medical Treatment,Office Area,Marketing,Alat Rusak,Cedera Ringan,1,3:04,27.1,16534104,3950097,Tidak,3
+38,Lidya Handayani,Perempuan,48,01-May-2023,00:17,3,First Aid,Extrusion,Extruder,Faktor Manusia,Terkena Benturan Ringan,0,6:31,6.5,40877045,3160626,Tidak,5
+39,Edi Hartati,Laki-laki,34,06-May-2023,09:49,3,Medical Treatment,Break Room,Finance,Alat Rusak,Luka Jahitan,0,1:35,1.6,27018887,1480886,Tidak,5
+40,Michelle Firmansyah,Perempuan,46,11-May-2023,03:49,1,Restricted,"Jalan Kartini, Sidoarjo",PPIC,Kesalahan Prosedur,Cedera Akibat Kecelakaan Lalu Lintas,3,2:44,74.7,28166082,4916347,Ya,2
+41,Candra Hardiansyah,Laki-laki,37,13-May-2023,02:50,3,Medical Treatment,"Jalan Basuki Rahmat, Surabaya",Utility,Alat Rusak,Cedera Akibat Kecelakaan Lalu Lintas,3,4:46,76.8,47450171,4888857,Ya,3
+42,Teguh Saputra,Laki-laki,44,16-May-2023,22:38,2,Medical Treatment,Main Production Area,Molder,Faktor Manusia,Luka Robek,2,5:54,53.9,28285199,4843128,Tidak,1
+43,Ganda Wibowo,Laki-laki,36,17-May-2023,05:16,1,Restricted,Washing Area,Elektrik,Faktor Manusia,Cedera Pergelangan,1,7:32,31.5,30540339,1680666,Tidak,0
+44,Irma Prakasa,Perempuan,42,17-May-2023,18:18,3,Medical Treatment,Office Area,Marketing,Kesalahan Prosedur,Luka Jahitan,1,1:17,25.3,20760822,2366471,Tidak,0
+45,Gilda Zulaika,Perempuan,41,17-May-2023,01:41,3,Medical Treatment,Extrusion,Extruder,Kesalahan Prosedur,Cedera Ringan,1,5:18,29.3,34591422,2777506,Tidak,3
+46,Eja Ardianto,Laki-laki,44,20-May-2023,09:02,2,Medical Treatment,Main Production Area,Thermoformer,Alat Rusak,Cedera Ringan,0,6:16,6.3,33989144,3747265,Tidak,1
+47,Aswani Sitompul,Laki-laki,35,21-May-2023,04:56,1,First Aid,Break Room,HR,Lingkungan Kerja,Terkena Benturan Ringan,2,4:56,52.9,34406821,2291632,Tidak,1
+48,Mila Ardianto,Perempuan,39,22-May-2023,23:06,1,First Aid,Canteen Area,HR,Alat Rusak,Luka Bakar Ringan,1,6:00,30.0,10689622,4784872,Tidak,3
+49,Kartika Hidayanto,Perempuan,43,25-May-2023,10:08,2,Medical Treatment,Break Room,IT,Faktor Manusia,Luka Jahitan,2,0:34,48.6,10082985,134884,Tidak,3
+50,Eja Safitri,Laki-laki,31,28-May-2023,18:12,1,Medical Treatment,Finished Goods Storage,Warehouse,Faktor Manusia,Cedera Ringan,0,2:27,2.5,34040406,3949742,Tidak,4
+51,Bella Maryadi,Perempuan,27,01-Jun-2023,23:53,1,Medical Treatment,Office Area,IT,Lingkungan Kerja,Cedera Ringan,0,5:21,5.4,40557991,772836,Tidak,3
+52,Asmuni Haryanti,Laki-laki,23,04-Jun-2023,00:31,3,Medical Treatment,Finished Goods Storage,Warehouse,Lingkungan Kerja,Cedera Ringan,1,14:57,39.0,3657804,4245082,Tidak,2
+53,Prasetya Kuswandari,Laki-laki,44,06-Jun-2023,22:42,1,Restricted,"Jalan Kartini, Sidoarjo",Extruder,Alat Rusak,Cedera Akibat Kecelakaan Lalu Lintas,3,2:02,74.0,14259914,339650,Ya,6
+54,Olivia Wasita,Perempuan,47,12-Jun-2023,22:05,1,Restricted,"Jalan Raya Darmo, Surabaya",Marketing,Lingkungan Kerja,Cedera Akibat Kecelakaan Lalu Lintas,2,4:59,53.0,22078290,3611590,Ya,6
+55,Samiah Siregar,Perempuan,22,18-Jun-2023,23:33,1,Restricted,Main Production Area,Molder,Alat Rusak,Patah Tulang (Tangan),2,7:43,55.7,35916621,300833,Tidak,2
+56,Rini Mulyani,Perempuan,20,20-Jun-2023,01:32,3,First Aid,Break Room,IT,Lingkungan Kerja,Luka Bakar Ringan,3,0:43,72.7,17737236,1208951,Tidak,8
+57,Ratih Permadi,Perempuan,32,28-Jun-2023,05:46,3,Medical Treatment,Office Area,Marketing,Faktor Manusia,Cedera Ringan,1,5:47,29.8,12985986,2112787,Tidak,15
+58,Bakiman Mahendra,Laki-laki,34,13-Jul-2023,04:34,3,Medical Treatment,Feeding,Utility,Alat Rusak,Luka Robek,0,7:57,8.0,27155073,988121,Tidak,2
+59,Dariati Winarno,Laki-laki,45,15-Jul-2023,18:41,1,First Aid,Main Production Area,PPIC,Faktor Manusia,Tergores,2,4:34,52.6,6167282,1573031,Tidak,9
+60,Rangga Dongoran,Laki-laki,36,24-Jul-2023,09:08,3,Medical Treatment,Office Area,HR,Kesalahan Prosedur,Luka Dalam,1,1:34,25.6,43302859,3503593,Tidak,1
+61,Rahmi Agustina,Perempuan,29,25-Jul-2023,19:46,1,First Aid,Injection Molding,Molder,Lingkungan Kerja,Luka Bakar Ringan,0,6:21,6.4,27790510,2725554,Tidak,0
+62,Jamalia Sitorus,Perempuan,31,25-Jul-2023,02:31,3,Fatality,Main Production Area,Thermoformer,Kesalahan Prosedur,Kematian,0,0:32,0.5,20159749,397018,Tidak,1
+63,Danuja Utami,Laki-laki,33,26-Jul-2023,02:00,1,Medical Treatment,Main Production Area,Extruder,Kesalahan Prosedur,Luka Dalam,1,3:17,27.3,44410024,237138,Tidak,2
+64,Michelle Hariyah,Perempuan,34,28-Jul-2023,09:05,1,Medical Treatment,Feeding,Extruder,Faktor Manusia,Luka Dalam,1,6:50,30.8,49321574,4822746,Tidak,14
+65,Rachel Napitupulu,Perempuan,25,11-Aug-2023,00:59,3,Medical Treatment,Slitting,Mekanik,Lingkungan Kerja,Luka Robek,1,13:51,37.9,5814993,3800455,Tidak,0
+66,Harjaya Rahmawati,Laki-laki,41,11-Aug-2023,11:06,1,Restricted,Extrusion,Extruder,Faktor Manusia,Cedera Lutut,0,3:22,3.4,44819834,221454,Tidak,3
+67,Perkasa Zulkarnain,Laki-laki,30,14-Aug-2023,01:13,3,Medical Treatment,Office Area,IT,Kesalahan Prosedur,Cedera Ringan,0,14:51,14.9,49340800,2546774,Tidak,2
+68,Cinta Lailasari,Perempuan,40,16-Aug-2023,04:24,3,Medical Treatment,Main Production Area,Molder,Kesalahan Prosedur,Luka Jahitan,1,14:10,38.2,17978563,1038093,Tidak,2
+69,Ani Maheswara,Perempuan,29,18-Aug-2023,03:26,1,Restricted,Feeding,Utility,Alat Rusak,Cedera Lutut,1,3:42,27.7,10234970,3772994,Tidak,0
+70,Zizi Prasasta,Perempuan,22,18-Aug-2023,23:27,1,Medical Treatment,Main Production Area,QA,Alat Rusak,Luka Dalam,0,7:09,7.2,49919818,2508664,Tidak,2
+71,Sabrina Marpaung,Perempuan,46,20-Aug-2023,02:03,1,Medical Treatment,Break Room,IT,Alat Rusak,Cedera Ringan,1,3:27,27.5,26329957,430219,Tidak,1
+72,Raden Waluyo,Laki-laki,34,21-Aug-2023,02:39,3,Medical Treatment,Main Production Area,Molder,Alat Rusak,Luka Dalam,2,5:41,53.7,18763998,3831011,Tidak,7
+73,Wasis Winarsih,Laki-laki,27,28-Aug-2023,21:13,1,Medical Treatment,Injection Molding,Molder,Faktor Manusia,Luka Jahitan,1,1:31,25.5,40181415,268998,Tidak,14
+74,Himawan Rajasa,Laki-laki,30,11-Sep-2023,06:51,3,Medical Treatment,Break Room,R&D,Faktor Manusia,Luka Jahitan,2,1:54,49.9,21842525,412574,Tidak,5
+75,Rendy Astuti,Laki-laki,20,16-Sep-2023,06:48,1,Medical Treatment,Main Production Area,Utility,Lingkungan Kerja,Luka Jahitan,2,5:57,54.0,22488640,3312647,Tidak,12
+76,Joko Fujiati,Laki-laki,42,28-Sep-2023,22:25,3,Medical Treatment,Office Area,Marketing,Lingkungan Kerja,Luka Robek,2,0:32,48.5,48591005,4765835,Tidak,3
+77,Hamima Thamrin,Perempuan,42,01-Oct-2023,04:32,1,Medical Treatment,Support Material Storage,Logistics,Faktor Manusia,Luka Jahitan,2,3:05,51.1,43337077,4909249,Tidak,0
+78,Fitriani Widodo,Perempuan,40,01-Oct-2023,16:31,3,Medical Treatment,Quality Control Area,QA,Faktor Manusia,Luka Robek,0,4:13,4.2,17146864,2413006,Tidak,3
+79,Belinda Mustofa,Perempuan,31,04-Oct-2023,00:36,3,Fatality,Main Production Area,PPIC,Faktor Manusia,Cedera Fatal,1,7:28,31.5,6443171,268415,Tidak,1
+80,Jail Dabukke,Laki-laki,39,05-Oct-2023,05:58,1,Medical Treatment,Metalizing,Metalize,Kesalahan Prosedur,Luka Jahitan,1,7:24,31.4,49201354,2785009,Tidak,5
+81,Rahmi Adriansyah,Perempuan,20,10-Oct-2023,04:43,3,Medical Treatment,Main Production Area,Elektrik,Faktor Manusia,Luka Robek,2,5:42,53.7,19755968,4544086,Tidak,1
+82,Hamzah Pangestu,Laki-laki,38,11-Oct-2023,22:32,1,Medical Treatment,Main Production Area,Thermoformer,Kesalahan Prosedur,Luka Jahitan,0,3:36,3.6,38247162,2422047,Tidak,1
+83,Citra Tarihoran,Perempuan,36,12-Oct-2023,04:38,1,Restricted,Main Production Area,Molder,Lingkungan Kerja,Cedera Otot,2,1:12,49.2,43191872,742569,Tidak,1
+84,Taufik Wulandari,Laki-laki,45,13-Oct-2023,01:10,1,Fatality,Main Production Area,PPIC,Faktor Manusia,Kematian,2,6:28,54.5,49263550,343741,Tidak,13
+85,Nadine Suwarno,Perempuan,24,26-Oct-2023,03:33,3,Medical Treatment,Main Production Area,Molder,Faktor Manusia,Luka Dalam,1,14:59,39.0,24257694,4170306,Tidak,6
+86,Galak Permadi,Laki-laki,29,01-Nov-2023,09:48,1,Medical Treatment,Hazardous Material Warehouse,Warehouse,Lingkungan Kerja,Luka Dalam,1,1:43,25.7,24435587,2163229,Tidak,2
+87,Puput Prayoga,Perempuan,38,03-Nov-2023,23:16,2,Medical Treatment,Metalizing,Metalize,Kesalahan Prosedur,Luka Robek,3,1:04,73.1,23426174,1350820,Tidak,2
+88,Daruna Siregar,Laki-laki,25,05-Nov-2023,10:48,3,First Aid,Main Production Area,PPIC,Alat Rusak,Tersengat Listrik Ringan,0,6:07,6.1,39443537,714423,Tidak,1
+89,Reza Saptono,Laki-laki,45,06-Nov-2023,01:06,3,Medical Treatment,Canteen Area,R&D,Alat Rusak,Luka Robek,0,13:11,13.2,29187044,480241,Tidak,8
+90,Bakti Firgantoro,Laki-laki,43,14-Nov-2023,06:43,1,First Aid,Prayer Room,Finance,Alat Rusak,Tersengat Listrik Ringan,2,3:33,51.6,13963298,3939916,Tidak,2
+91,Candra Latupono,Laki-laki,36,16-Nov-2023,21:36,1,Medical Treatment,Feeding,Extruder,Alat Rusak,Luka Dalam,1,7:01,31.0,20427668,3971875,Tidak,3
+92,Ajiman Uwais,Laki-laki,45,19-Nov-2023,00:51,3,Medical Treatment,Prayer Room,Finance,Kesalahan Prosedur,Luka Jahitan,0,1:21,1.4,14694824,2208528,Tidak,2
+93,Ratna Mandasari,Perempuan,34,21-Nov-2023,23:59,1,Medical Treatment,Canteen Area,Finance,Lingkungan Kerja,Luka Dalam,3,4:27,76.5,13608464,2228668,Tidak,3
+94,Kenzie Pradana,Laki-laki,24,24-Nov-2023,03:33,1,Medical Treatment,Main Production Area,Molder,Alat Rusak,Luka Robek,1,5:49,29.8,46356491,2588747,Tidak,1
+95,Jumari Andriani,Laki-laki,29,25-Nov-2023,00:01,1,Medical Treatment,Feeding,Extruder,Kesalahan Prosedur,Cedera Ringan,3,1:47,73.8,1083272,3566410,Tidak,3
+96,Jasmin Nasyiah,Perempuan,22,28-Nov-2023,02:42,1,Medical Treatment,Raw Material Storage,Warehouse,Alat Rusak,Luka Robek,0,6:23,6.4,10723774,2105536,Tidak,0
+97,Faizah Laksita,Perempuan,40,28-Nov-2023,03:12,1,Medical Treatment,Prayer Room,IT,Faktor Manusia,Luka Jahitan,0,7:59,8.0,47696920,4226215,Tidak,4
+98,Reza Utama,Laki-laki,22,02-Dec-2023,04:33,3,First Aid,Finished Goods Storage,Logistics,Lingkungan Kerja,Terkena Benturan Ringan,1,6:42,30.7,15232611,3568768,Tidak,3
+99,Yani Utama,Perempuan,29,05-Dec-2023,06:29,1,Medical Treatment,Quality Control Area,QA,Alat Rusak,Luka Robek,0,1:09,1.2,36437875,1867739,Tidak,6
+100,Zaenab Kusumo,Perempuan,48,11-Dec-2023,02:10,3,Medical Treatment,Break Room,R&D,Alat Rusak,Cedera Ringan,2,8:08,56.1,46543759,2904387,Tidak,1
+,,,,,,,,,,,,,,,,,,
